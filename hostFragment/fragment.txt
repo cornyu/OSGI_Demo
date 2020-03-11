@@ -1,0 +1,4 @@
+说明：
+
+fragment 是不能够自己启动或停止的，host bundle可以有自己的配置，
+fragment也可以由自己的配置，可以用fragment的配置来覆盖host bundle的配置。

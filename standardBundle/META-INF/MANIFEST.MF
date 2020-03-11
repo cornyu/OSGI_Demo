@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: StandardBundle
+Bundle-SymbolicName: standardBundle
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: standardbundle.Activator
+Bundle-Vendor: yujinyu
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: org.osgi.framework;version="1.3.0"

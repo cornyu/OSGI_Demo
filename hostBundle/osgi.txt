@@ -1,0 +1,6 @@
+基于 equonix 核心的bundle
+
+1.命令ss  查看bundle状态；
+  命令start 启动bundle;
+
+ 
